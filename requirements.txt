@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langserve
+langchain-groq
+langchain-core
+langchain
+qdrant-client
+sentence-transformers
+transformers
+torch
+unstructured[pdf]
+python-dotenv
